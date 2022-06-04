@@ -1,4 +1,4 @@
-Hola me conocen como dh89, creando repositorios para ayudar a la comunidad si les es de utilidad les agradeceria su estrella
+Hola me conocen como dh89, creando repositorios para ayudar a la comunidad si les es de utilidad alguna herramienta les agradeceria su estrella
 
 Perfil-Hackthebox ------>   https://app.hackthebox.com/profile/813385
 
